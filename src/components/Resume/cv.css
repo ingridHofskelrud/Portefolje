@@ -1,0 +1,15 @@
+body{
+    background: rgb(196, 164, 132);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height:100vh;
+}
+.centered{
+    text-align: center;
+}
+.resume {
+object-fit: cover;
+max-width: 70%;
+max-height: 50%;
+}
